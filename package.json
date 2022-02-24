@@ -1,0 +1,22 @@
+{
+    "name": "hbs-4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    },
+    "dependencies": {
+        "bootstrap": "^5.1.3",
+        "dotenv": "^16.0.0",
+        "express": "^4.17.3",
+        "express-handlebars": "^6.0.2",
+        "mongoose": "^6.2.3"
+    }
+}
